@@ -8,4 +8,4 @@
 	npm install browser-sync -g
 
 ###3.开始简单开发模式
-	运行browser-sync start --server --files="**"
+	运行npm run dev
