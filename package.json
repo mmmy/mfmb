@@ -1,0 +1,24 @@
+{
+  "name": "mfmb",
+  "version": "1.0.0",
+  "description": "这是一个页面",
+  "main": "main.js",
+  "scripts": {
+    "dev": "browser-sync start --server --files='**'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmmy/mfmb.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "jquery"
+  ],
+  "dependencies": {},
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmmy/mfmb/issues"
+  },
+  "homepage": "https://github.com/mmmy/mfmb#readme"
+}
